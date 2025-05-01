@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello World! I'm Andra Adinata 👋
+
+![Andra Adinata](img/discordpf.png)
 
 <!--
 **AndraAdinata/AndraAdinata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on UNJ [Computer Science](https://onlinelearning.unj.ac.id/) 
+- 🌱 I’m currently learning **Rust**
+🗿🗿🗿🗿🗿
+
+![water breathing](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGt6am5zazFyZ3NhcmNubDBjcG0zOGwyY3g3bmhpM3Vob2R4bWRteSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KDjSlXXcczEsfll7pi/giphy.gif)
